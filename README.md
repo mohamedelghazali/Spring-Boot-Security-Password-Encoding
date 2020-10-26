@@ -13,3 +13,12 @@ Environment Setup
 
 4. Maven
 
+
+# Test Project 
+
+
+1. Run Application.java as a java application
+
+
+2.Hit the url as http://localhost:8080/ and you will be redirected to /login 
+
